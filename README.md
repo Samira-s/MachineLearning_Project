@@ -11,5 +11,6 @@ After preprocessing the data in several steps, we trained it by a data generator
 * ResNet
 * VGG
 
-Then compared the results of accuray and loss on train, validation, and test datasets.
+Then the results of accuracy and loss on train, validation, and test datasets are compared with each other.
+
 At the end, a Cross Validation algorithm accomplished, too.
